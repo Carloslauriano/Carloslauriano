@@ -1,4 +1,4 @@
-### Ola! Eu sou o Carlos Lauriano 👋
+## Ola! Eu sou o Carlos Lauriano 👋
 
 <div align="center">
   <a href="https://github.com/Laquinui">
