@@ -1,9 +1,5 @@
 ## Ola! Eu sou o Carlos Lauriano 👋
 
-<a href="https://github.com/Carloslauriano" target="_blank"><img src="https://img.icons8.com/material-outlined/48/000000/github.png"/></a>
-
----
-
 ### Languages and Tools 🛠 
 
 <a href="https://github.com/Carloslauriano">
