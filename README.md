@@ -1,6 +1,6 @@
 ## Ola! Eu sou o Carlos Lauriano 👋
 
-### Languages and Tools 🛠 
+### 🛠 Languages and Tools  
 
 <a href="https://github.com/Carloslauriano">
 
