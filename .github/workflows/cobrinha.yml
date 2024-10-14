@@ -2,7 +2,7 @@ name: Generate Cobrinha
 
 on:
   schedule: # execute every 12 hours
-    - cron: "0 0 0 1/2 *"
+    - cron: "0 0 0 1/2 * *"
   workflow_dispatch:
 
 jobs:
