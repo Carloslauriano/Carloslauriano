@@ -12,12 +12,12 @@
 # 📊 GitHub Stats:
 <div align="center">
   <a href="https://github.com/Carloslauriano">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carloslauriano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=false&layout=compact&theme=dracula&langs_count=7"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carloslauriano&no-frame=true&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=false&layout=compact&theme=dracula&langs_count=7&no-frame=true"/>
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Carloslauriano&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Carloslauriano&theme=dracula&no-frame=true&no-bg=false&margin-w=4&count_private=true)
 
 ## 🐍 Commit snake
 <div align="center">
