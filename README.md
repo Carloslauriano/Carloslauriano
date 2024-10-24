@@ -12,8 +12,8 @@
 # 📊 GitHub Stats:
 <div align="center">
   <a href="https://github.com/Carloslauriano">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carloslauriano&no-frame=true&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=false&layout=compact&theme=dracula&langs_count=7&no-frame=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carloslauriano&no-frame=true&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&_=1234"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=false&layout=compact&theme=dracula&langs_count=7&no-frame=true&_=5678"/>
 </div>
 
 ## 🏆 GitHub Trophies
