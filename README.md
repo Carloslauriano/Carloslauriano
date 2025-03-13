@@ -1,8 +1,9 @@
-# 💫 Sobre mim:
-👾 Geek/nerd desde sempre, apaixonado por séries, filmes e tecnologia! <br>
-🚀 Comecei a programar bem cedo, graças ao meu pai que me apresentou esse mundo incrível. <br>
-🧑‍💼 Hoje, Técnico em Desenvolvimeto de Sistemas na hold 'Camino', que comanda marcas como 'Avantpro', 'BonoERP' e 'SistemaRAM'. <br>
-💻 Especialista em backend e DevOps, sempre buscando novos desafios e tecnologias para explorar! 🔧
+# 💫 Sobre Mim  
+
+👾 Geek/Nerd desde sempre, apaixonado por séries, filmes e, claro, tecnologia!  
+🚀 Comecei a programar bem cedo, graças ao meu pai, que me apresentou esse universo incrível.  
+🧑‍💼 Atualmente, sou Técnico em Desenvolvimento de Sistemas na **Camino**, empresa responsável por soluções como **Avantpro**, **Bono ERP** e **Sistema RAM**.  
+💻 Especialista em **backend** e **DevOps**, sempre explorando novas tecnologias e desafios.  🔧
 
 [![](https://visitcount.itsvg.in/api?id=Carloslauriano&icon=3&color=0)](https://visitcount.itsvg.in)
 
