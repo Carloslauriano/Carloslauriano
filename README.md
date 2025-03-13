@@ -5,8 +5,6 @@
 🧑‍💼 Atualmente, sou Técnico em Desenvolvimento de Sistemas na **Camino**, empresa responsável por soluções como **Avantpro**, **Bono ERP** e **Sistema RAM**.  
 💻 Especialista em **backend** e **DevOps**, sempre explorando novas tecnologias e desafios.  🔧
 
-[![](https://visitcount.itsvg.in/api?id=Carloslauriano&icon=3&color=0)](https://visitcount.itsvg.in)
-
 ## 🌐 Redes Sociais:
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/26322084) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@CarlosHLauriano) [![daily.dev](https://img.shields.io/badge/daily.dev-%23d74cf6.svg?logo=daily.dev&logoColor=white)](https://app.daily.dev/carloslauriano)
 
