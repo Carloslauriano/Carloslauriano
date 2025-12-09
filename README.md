@@ -2,7 +2,7 @@
 
 👾 Geek/Nerd desde sempre, apaixonado por séries, filmes e, claro, tecnologia!  
 🚀 Comecei a programar bem cedo, graças ao meu pai, que me apresentou esse universo incrível.  
-🧑‍💼 Atualmente, sou Técnico em Desenvolvimento de Sistemas na **Camino**, empresa responsável por soluções como **Avantpro**, **Bono ERP** e **Sistema RAM**.  
+🧑‍💼 Atualmente, sou Técnico em Desenvolvimento de Sistemas Pleno no **SistemaRAM**, empresa responsável por soluções como **[RAMPro](https://rampro.com.br/)** e **[Sistema RAM](https://sistemaram.com.br/)**.  
 💻 Especialista em **backend** e **DevOps**, sempre explorando novas tecnologias e desafios.  🔧
 
 ## 🌐 Redes Sociais:
